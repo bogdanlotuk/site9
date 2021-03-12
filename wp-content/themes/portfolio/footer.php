@@ -17,8 +17,5 @@
         </div>
     </footer>
     <?php wp_footer(); ?>
-    <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-    <script src="js/jquery.magnific-popup.min.js"></script>
-    <script src="js/main.min.js"></script> -->
 </body>
 </html>
